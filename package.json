@@ -1,0 +1,23 @@
+{
+  "name": "stylesnap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ravi Kishan <ravikishan63392@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "bootstrap": "^5.3.3",
+    "cheerio": "^1.0.0",
+    "clean-css": "^5.3.3",
+    "commander": "^12.1.0",
+    "glob": "^11.0.0",
+    "postcss": "^8.4.49",
+    "postcss-selector-parser": "^7.0.0",
+    "stylesnap": "file:"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "content": ["./src/**/*.html", "./src/**/*.jsx"],
+  "css": "./node_modules/bootstrap/dist/css/bootstrap.css",
+  "output": "./dist/optimized2.css",
+  "minify": false
+}

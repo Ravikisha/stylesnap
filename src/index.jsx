@@ -1,1 +1,0 @@
-<h1 className=".text-right">Hello World</h1>

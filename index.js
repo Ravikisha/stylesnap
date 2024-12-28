@@ -80,12 +80,13 @@ async function main() {
     return;
   }
 
-  const { classes, tags } = extractClassesAndTagsFromFiles(filePaths);
+  const { classes, tags, ids } = extractClassesAndTagsFromFiles(filePaths);
 
   // Extract the required CSS
   const { variables, globalSelectors, combinedCss, error } = await extractCss(
     classes,
     tags,
+    ids,
     options.css, // Assuming you only want to process one CSS file
     options.defaultCss || null
   );

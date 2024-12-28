@@ -3,13 +3,29 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "stylesnap": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "css",
+    "css-optimization",
+    "css-minimization",
+    "postcss",
+    "reduce-css",
+    "minimal-css",
+    "classnames-extraction",
+    "tailwindcss",
+    "bootstrap",
+    "utility-first-css",
+    "web-performance",
+    "stylesnap"
+  ],
   "author": "Ravi Kishan <ravikishan63392@gmail.com>",
   "license": "MIT",
-  "description": "",
+  "description": "Stylesnap is a powerful CSS optimization tool that analyzes your content files, extracts used classnames and tags, and generates a minimal CSS file. Ideal for reducing CSS file size and improving web performance in TailwindCSS, Bootstrap, or custom frameworks.",
   "devDependencies": {
     "bootstrap": "^5.3.3",
     "cheerio": "^1.0.0",
@@ -19,5 +35,11 @@
     "postcss": "^8.4.49",
     "postcss-selector-parser": "^7.0.0",
     "stylesnap": "file:"
-  }
+  },
+  "files": [
+    "index.js",
+    "lib",
+    "config.default.json",
+    "license"
+  ]
 }

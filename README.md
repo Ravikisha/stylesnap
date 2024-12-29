@@ -1,3 +1,4 @@
+![Logo](./docs/stylesnap.jpg)
 # Stylesnap
 
 <p float="left">

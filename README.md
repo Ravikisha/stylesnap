@@ -3,10 +3,10 @@
 <p float="left">
   <img src="https://img.shields.io/npm/v/stylesnap?style=flat-square" alt="npm version" />
   <img src="https://img.shields.io/npm/dt/stylesnap?style=flat-square" alt="npm downloads" />
-  <img src="https://img.shields.io/github/license/ravikishan/stylesnap?style=flat-square" alt="license" />
-  <img src="https://img.shields.io/github/stars/ravikishan/stylesnap?style=flat-square" alt="stars" />
-  <img src="https://img.shields.io/github/forks/ravikishan/stylesnap?style=flat-square" alt="forks" />
-  <img src="https://img.shields.io/github/issues/ravikishan/stylesnap?style=flat-square" alt="issues" />
+  <img src="https://img.shields.io/github/license/Ravikisha/stylesnap?style=flat-square" alt="license" />
+  <img src="https://img.shields.io/github/stars/Ravikisha/stylesnap?style=flat-square" alt="stars" />
+  <img src="https://img.shields.io/github/forks/Ravikisha/stylesnap?style=flat-square" alt="forks" />
+  <img src="https://img.shields.io/github/issues/Ravikisha/stylesnap?style=flat-square" alt="issues" />
 </p>
 
 <p float="left">

@@ -6,9 +6,6 @@
   "bin": {
     "stylesnap": "./index.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "css",
     "css-optimization",
@@ -33,13 +30,20 @@
     "commander": "^12.1.0",
     "glob": "^11.0.0",
     "postcss": "^8.4.49",
-    "postcss-selector-parser": "^7.0.0",
-    "stylesnap": "file:"
+    "postcss-selector-parser": "^7.0.0"
   },
   "files": [
     "index.js",
     "lib",
     "config.default.json",
     "license"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ravikisha/stylesnap.git"
+  },
+  "homepage": "https://github.com/Ravikisha/stylesnap#readme",
+  "bugs": {
+    "url": "https://github.com/Ravikisha/stylesnap/issues"
+  }
 }
